@@ -1,6 +1,4 @@
 weights/*
-data/video/*
-data/*
 model_data/mars-small128.pb
 model_data/DeepSORT.pdf
 model_data/DeepSORT.png
